@@ -1,0 +1,172 @@
+{
+    "results": [
+        {
+            "gender": "female",
+            "name": {
+                "title": "Ms",
+                "first": "Mestan",
+                "last": "T\u00fct\u00fcnc\u00fc"
+            },
+            "location": {
+                "street": {
+                    "number": 6715,
+                    "name": "Fatih Sultan Mehmet Cd"
+                },
+                "city": "Trabzon",
+                "state": "Bilecik",
+                "country": "Turkey",
+                "postcode": 45361,
+                "coordinates": {
+                    "latitude": "75.9169",
+                    "longitude": "89.6967"
+                },
+                "timezone": {
+                    "offset": "+6:00",
+                    "description": "Almaty, Dhaka, Colombo"
+                }
+            },
+            "email": "mestan.tutuncu@example.com",
+            "login": {
+                "uuid": "9dbcacc2-660f-4874-99f0-e9a988b41aaa",
+                "username": "angrytiger632",
+                "password": "widget",
+                "salt": "za0HDrvL",
+                "md5": "1896cc11689aae2fc152a45a32ed7567",
+                "sha1": "a54f2bc79b6bf6a2529b84fe1975a4f0308e7c81",
+                "sha256": "3e25b279411f68d885fb30dfa05499bc95889192351f7ea1feafa73816bf0b0c"
+            },
+            "dob": {
+                "date": "1980-10-19T06:37:43.109Z",
+                "age": 42
+            },
+            "registered": {
+                "date": "2012-09-12T22:41:55.880Z",
+                "age": 10
+            },
+            "phone": "(573)-066-6383",
+            "cell": "(902)-442-0037",
+            "id": {
+                "name": "",
+                "value": null
+            },
+            "picture": {
+                "large": "https://randomuser.me/api/portraits/women/53.jpg",
+                "medium": "https://randomuser.me/api/portraits/med/women/53.jpg",
+                "thumbnail": "https://randomuser.me/api/portraits/thumb/women/53.jpg"
+            },
+            "nat": "TR"
+        },
+        {
+            "gender": "male",
+            "name": {
+                "title": "Mr",
+                "first": "Bill",
+                "last": "Murray"
+            },
+            "location": {
+                "street": {
+                    "number": 4410,
+                    "name": "W Belt Line Rd"
+                },
+                "city": "Sacramento",
+                "state": "Arizona",
+                "country": "United States",
+                "postcode": 46372,
+                "coordinates": {
+                    "latitude": "85.8700",
+                    "longitude": "-53.6983"
+                },
+                "timezone": {
+                    "offset": "+4:30",
+                    "description": "Kabul"
+                }
+            },
+            "email": "bill.murray@example.com",
+            "login": {
+                "uuid": "1aa7dc06-1c63-4f4e-b0e2-db77bbd56d1a",
+                "username": "whitecat867",
+                "password": "1018",
+                "salt": "gVAm0t5R",
+                "md5": "cbc280c2c5f4d1c4dd4dbf35a085ca94",
+                "sha1": "9f0ee006eb26a4e8988ac7ddb90333fa7ddcbfbd",
+                "sha256": "b653d51c892365225365bf728a7fe73cf3d29ddaf167c7e85b313315d63b3fbf"
+            },
+            "dob": {
+                "date": "1981-12-10T09:26:48.810Z",
+                "age": 41
+            },
+            "registered": {
+                "date": "2010-05-17T03:38:47.366Z",
+                "age": 12
+            },
+            "phone": "(778)-348-1665",
+            "cell": "(995)-066-8422",
+            "id": {
+                "name": "SSN",
+                "value": "328-89-6728"
+            },
+            "picture": {
+                "large": "https://randomuser.me/api/portraits/men/46.jpg",
+                "medium": "https://randomuser.me/api/portraits/med/men/46.jpg",
+                "thumbnail": "https://randomuser.me/api/portraits/thumb/men/46.jpg"
+            },
+            "nat": "US"
+        },
+        {
+            "gender": "female",
+            "name": {
+                "title": "Mrs",
+                "first": "Elif",
+                "last": "Aln\u0131a\u00e7\u0131k"
+            },
+            "location": {
+                "street": {
+                    "number": 4471,
+                    "name": "Istiklal Cd"
+                },
+                "city": "Karab\u00fck",
+                "state": "Bing\u00f6l",
+                "country": "Turkey",
+                "postcode": 20552,
+                "coordinates": {
+                    "latitude": "71.8144",
+                    "longitude": "100.2296"
+                },
+                "timezone": {
+                    "offset": "-3:30",
+                    "description": "Newfoundland"
+                }
+            },
+            "email": "elif.alniacik@example.com",
+            "login": {
+                "uuid": "516577f2-1a3e-4d2c-b316-cff7ac1c50b0",
+                "username": "happypeacock997",
+                "password": "amber1",
+                "salt": "Pm5ZiYRo",
+                "md5": "feae2da993f76253e798051442e21427",
+                "sha1": "2bdcfa872d8675591b3fa40e6e827057b8876eea",
+                "sha256": "6c59f4ffb6d37896a709a917db7610c613f73bb530b1515cdaa4e3bf808ffabf"
+            },
+            "dob": {
+                "date": "1997-01-26T11:40:46.057Z",
+                "age": 25
+            },
+            "registered": {
+                "date": "2010-05-21T01:21:16.170Z",
+                "age": 12
+            },
+            "phone": "(707)-306-0118",
+            "cell": "(141)-321-7406",
+            "id": {
+                "name": "",
+                "value": null
+            },
+            "picture": {
+                "large": "https://randomuser.me/api/portraits/women/64.jpg",
+                "medium": "https://randomuser.me/api/portraits/med/women/64.jpg",
+                "thumbnail": "https://randomuser.me/api/portraits/thumb/women/64.jpg"
+            },
+            "nat": "TR"
+        }
+    ]
+}
