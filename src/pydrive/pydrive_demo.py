@@ -14,7 +14,7 @@ gauth.auth_method = 'service'
 gauth.credentials = ServiceAccountCredentials.from_json_keyfile_name('eurostar-2022-1cf61be6884d.json', scope)
 drive = GoogleDrive(gauth)
 
-file1 = drive.CreateFile({'title': 'reports.zip', 'mimeType': 'application/zip'})
+file1 = drive.CreateFile({'title': 'reports.zip'})
 file1.SetContentFile('reports.zip')
 file1.Upload()
 
