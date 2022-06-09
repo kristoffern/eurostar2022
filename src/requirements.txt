@@ -1,4 +1,4 @@
 requests
 gspread
-pydrive
+PyDrive2
 jinja2

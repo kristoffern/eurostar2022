@@ -1,3 +1,9 @@
+"""
+	Example showing how to use the site randomuser.me to fetch random 
+	test persons. Then store the retrieved testpersons in a locally available 
+	json file. 
+"""
+
 from pprint import pprint
 import requests
 import json

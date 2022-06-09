@@ -1,3 +1,10 @@
+"""
+	Emaple code showing how you can use a templating engine like Jinja
+	to create reusable templates for messages and text.
+	Normally the templates exists outside in .html files
+"""
+
+
 import random
 from jinja2 import Template
 
